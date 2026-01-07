@@ -28,3 +28,20 @@ This project demonstrates **core Java concepts**, **logical conditions**, **arra
 
 ---
 
+---
+
+## 🧮 Fare Structure
+| Bus Type        | Fare per Seat |
+|-----------------|---------------|
+| AC Sleeper      | ₹1500         |
+| Semi Sleeper    | ₹1000         |
+| Seater          | ₹500          |
+
+---
+
+## ▶️ How to Run
+1. Install **Java JDK**
+2. Open terminal or command prompt
+3. Compile the program:
+4. Run the program:
+
