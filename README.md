@@ -45,3 +45,42 @@ This project demonstrates **core Java concepts**, **logical conditions**, **arra
 3. Compile the program:
 4. Run the program:
 
+---
+
+## 🧾 Sample Output
+- Displays available routes and bus types
+- Prompts for journey date and seat selection
+- Collects passenger details
+- Generates ticket with:
+- Bus details
+- Passenger information
+- Fare breakdown
+- Total payable amount
+
+---
+
+## 🎯 Learning Outcomes
+- Control statements (`if-else`, `switch`)
+- Arrays and loops
+- User input handling
+- Modular programming using methods
+- Real-world console application logic
+
+---
+
+## 🔮 Future Enhancements
+- Seat availability tracking
+- File or database storage
+- Login and registration system
+- GUI using Java Swing or JavaFX
+- Online payment simulation
+
+---
+
+## 👨‍💻 Author
+**Developed by:** *JAYANTH D R*  
+**Language:** Java  
+
+---
+
+
